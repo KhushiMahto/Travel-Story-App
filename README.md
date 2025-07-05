@@ -38,4 +38,32 @@ Pin favorite stories to the top of the list.
 
 3.User authentication (sign up, log in) 🔐
 
-<h3>User Interface</h3>
+<h3>User Interface 🖥️</h3>
+<h4>1. Sign Up</h4>
+<img src=""/><br>
+
+<h4>2. Log In</h4>
+<img src=""/><br>
+
+<h4>3. Dashboard</h4>
+<img src=""/><br>
+
+<h4>4. Create Travel Story</h4>
+<img src=""/><br>
+
+<h4>5. View Travel Story</h4>
+<img src=""/><br>
+
+<h4>6. Edit Travel Story</h4>
+<img src=""/><br>
+
+<h4>7. Favourites</h4>
+<img src=""/><br>
+
+<h4>8. Search Stories</h4>
+<img src=""/><br>
+
+<h4>9. Filter By Date Range</h4>
+<img src=""/><br>
+
+
