@@ -29,3 +29,11 @@ Pin favorite stories to the top of the list.
 3.Database: MongoDB 🗃️
 
 4.Authentication: JWT (JSON Web Tokens) 🔑
+
+<h3>APIs ⚙️:</h3>
+
+1.Create, edit, and delete stories 📝
+
+2.Upload images 📸
+
+3. User authentication (sign up, log in) 🔐
