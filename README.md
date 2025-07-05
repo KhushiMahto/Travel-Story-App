@@ -46,24 +46,24 @@ Pin favorite stories to the top of the list.
 <img src="https://github.com/KhushiMahto/Travel-Story-App/blob/47f4eaaa21e725b6e9e69961a085909394d5eb8b/TravelStoryApp_Screenshots/Login.png"/><br>
 
 <h4>3. Dashboard</h4>
-<img src=""/><br>
+<img src="https://github.com/KhushiMahto/Travel-Story-App/blob/c00a53f1731ad67e57ab402c36548ac23b1f85d1/TravelStoryApp_Screenshots/Dashboard.png"/><br>
 
 <h4>4. Create Travel Story</h4>
-<img src=""/><br>
+<img src="https://github.com/KhushiMahto/Travel-Story-App/blob/c00a53f1731ad67e57ab402c36548ac23b1f85d1/TravelStoryApp_Screenshots/Add_Travel_Story.png"/><br>
 
 <h4>5. View Travel Story</h4>
-<img src=""/><br>
+<img src="https://github.com/KhushiMahto/Travel-Story-App/blob/c00a53f1731ad67e57ab402c36548ac23b1f85d1/TravelStoryApp_Screenshots/View_Travel_Story.png"/><br>
 
 <h4>6. Edit Travel Story</h4>
-<img src=""/><br>
+<img src="https://github.com/KhushiMahto/Travel-Story-App/blob/c00a53f1731ad67e57ab402c36548ac23b1f85d1/TravelStoryApp_Screenshots/Edit_Travel_Story.png"/><br>
 
 <h4>7. Favourites</h4>
-<img src=""/><br>
+<img src="https://github.com/KhushiMahto/Travel-Story-App/blob/c00a53f1731ad67e57ab402c36548ac23b1f85d1/TravelStoryApp_Screenshots/Favourite.png"/><br>
 
 <h4>8. Search Stories</h4>
-<img src=""/><br>
+<img src="https://github.com/KhushiMahto/Travel-Story-App/blob/c00a53f1731ad67e57ab402c36548ac23b1f85d1/TravelStoryApp_Screenshots/Search_Story.png"/><br>
 
 <h4>9. Filter By Date Range</h4>
-<img src=""/><br>
+<img src="https://github.com/KhushiMahto/Travel-Story-App/blob/c00a53f1731ad67e57ab402c36548ac23b1f85d1/TravelStoryApp_Screenshots/Filter_By_Date.png"/><br>
 
 
