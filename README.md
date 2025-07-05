@@ -5,7 +5,7 @@ This Full Stack Travel Story App is built using the MERN stack (MongoDB, Express
 
  <h3>Key Features:</h3>
 
-1.User Authentication<br>
+1. User Authentication<br>
 Secure sign-up and login functionality using JWT authentication.
 
 2.Story Management<br>
