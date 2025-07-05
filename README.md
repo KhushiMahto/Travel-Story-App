@@ -5,35 +5,35 @@ This Full Stack Travel Story App is built using the MERN stack (MongoDB, Express
 
  <h3>Key Features:</h3>
 
-1.🔐 User Authentication<br>
+•🔐 User Authentication<br>
 Secure sign-up and login functionality using JWT authentication.
 
-2.📝 Story Management<br>
+•📝 Story Management<br>
 Users can create, edit, and delete their travel stories.
 
-3.🖼️ Image Upload<br> 
+•🖼️ Image Upload<br> 
 Support for uploading images with stories.
 
-4.🔍 Search & Filters<br>
+•🔍 Search & Filters<br>
 Users can search for stories and filter them by date range.
 
-5.❤️ Favorites<br> 
+•❤️ Favorites<br> 
 Pin favorite stories to the top of the list.
 
 <h3>Tech Stack 💻:</h3>
 
-1.Frontend: React.js ⚛️
+•Frontend: React.js ⚛️
 
-2.Backend: Node.js, Express 🚀
+•Backend: Node.js, Express 🚀
 
-3.Database: MongoDB 🗃️
+•Database: MongoDB 🗃️
 
-4.Authentication: JWT (JSON Web Tokens) 🔑
+•Authentication: JWT (JSON Web Tokens) 🔑
 
 <h3>APIs ⚙️:</h3>
 
-1.Create, edit, and delete stories 📝
+•Create, edit, and delete stories 📝
 
-2.Upload images 📸
+•Upload images 📸
 
-3.User authentication (sign up, log in) 🔐
+•User authentication (sign up, log in) 🔐
