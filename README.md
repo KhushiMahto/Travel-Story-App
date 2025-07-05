@@ -43,7 +43,7 @@ Pin favorite stories to the top of the list.
 <img src="https://github.com/KhushiMahto/Travel-Story-App/blob/f898008034736db108ed175470aad918480eb4ea/TravelStoryApp_Screenshots/SignUp.png"/><br>
 
 <h4>2. Log In</h4>
-<img src=""/><br>
+<img src="https://github.com/KhushiMahto/Travel-Story-App/blob/47f4eaaa21e725b6e9e69961a085909394d5eb8b/TravelStoryApp_Screenshots/Login.png"/><br>
 
 <h4>3. Dashboard</h4>
 <img src=""/><br>
