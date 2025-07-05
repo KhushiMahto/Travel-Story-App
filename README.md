@@ -36,4 +36,4 @@ Pin favorite stories to the top of the list.
 
 2.Upload images 📸
 
-3. User authentication (sign up, log in) 🔐
+3.User authentication (sign up, log in) 🔐
