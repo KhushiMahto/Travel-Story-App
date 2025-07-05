@@ -40,7 +40,7 @@ Pin favorite stories to the top of the list.
 
 <h3>User Interface 🖥️</h3>
 <h4>1. Sign Up</h4>
-<img src=""/><br>
+<img src="https://github.com/KhushiMahto/Travel-Story-App/blob/f898008034736db108ed175470aad918480eb4ea/TravelStoryApp_Screenshots/SignUp.png"/><br>
 
 <h4>2. Log In</h4>
 <img src=""/><br>
